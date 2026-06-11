@@ -1,34 +1,34 @@
-<h2 align="center">👋 Hello! I'm Thuzar</h2>
+<h2 align="center">👋 Hello! I'm Moe Thida Myint</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/thuzar-thaung-sein/">LinkedIn</a> •
-  <a href="https://github.com/thuzarthaungsein">GitHub</a> •
-  <a href="mailto:thuzar.ts92@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/moethidamyint/">LinkedIn</a> •
+  <a href="https://github.com/moethidamyint">GitHub</a> •
+  <a href="mailto:moethidamyint1@gmail.com">Email</a>
 </p>
 
 <p align="center">
-  <strong>Full Stack Developer | Bangkok, Thailand</strong>
+  <strong>Software Developer | Tokyo, Japan</strong>
 </p>
 
 ## About Me
 
-Full Stack developer specializing in production-grade fintech and SaaS platforms. Experienced in developing event-driven microservices, payout processing, and integrating payment gateways (Stripe, Fazz, KPay, CyberSource) across global markets. Strong in TypeScript, Node.js, Next.js and Express.js on AWS. A reliable and responsible engineer with a strong sense of ownership, solving challenges and delivering under pressure.
+Software developer passionate about creating practical and user-friendly applications. Experienced in OutSystems, Java, JavaScript, SQL, and web technologies. Enjoys learning new technologies, solving real-world problems, and continuously improving skills to build efficient and reliable software solutions.
 
 ## Current Role
 
-💼 **Full Stack Developer** at [Tally Payments](https://tally-pay.com/)
+💼 **Software Developer** at [IT Forest](https://www.it-forest.co.jp/)
 
 ## Tech Stack
 
 **Languages & Frameworks & Databases:**
 
-- Frontend: React.js, Next.js, TypeScript
-- Backend: Node.js, Express.js, PHP Laravel, Go
-- MySQL, MongoDB
+- Frontend: Ionic, Angular
+- Backend: Java
+- MySQL, SQL Server
+- Low-Code Platform: Outsystems
 
 **Specialties:**
 
-- Microservices Architecture
-- REST APIs
-- Event-Driven Systems
-- Payment Gateway Integration
+- OutSystems Development
+- Hybrid Mobile App Development
+- Frontend Development
